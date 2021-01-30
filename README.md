@@ -1,1 +1,1 @@
-# cmpe172-pm-a-panda
+# CMPE 172 Git Repo
