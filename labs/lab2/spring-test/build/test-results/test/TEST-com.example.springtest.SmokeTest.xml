@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.springtest.SmokeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-13T05:11:59" hostname="DESKTOP-LQPVBQN" time="0.13">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.example.springtest.SmokeTest" time="0.13"/>
+  <system-out><![CDATA[2021-02-12 21:11:33.970  INFO 11224 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Neither @ContextConfiguration nor @ContextHierarchy found for test class [com.example.springtest.SmokeTest], using SpringBootContextLoader
+2021-02-12 21:11:34.023  INFO 11224 --- [    Test worker] o.s.t.c.support.AbstractContextLoader    : Could not detect default resource locations for test class [com.example.springtest.SmokeTest]: no resource found for suffixes {-context.xml, Context.groovy}.
+2021-02-12 21:11:34.024  INFO 11224 --- [    Test worker] t.c.s.AnnotationConfigContextLoaderUtils : Could not detect default configuration classes for test class [com.example.springtest.SmokeTest]: SmokeTest does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+2021-02-12 21:11:34.072  INFO 11224 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Found @SpringBootConfiguration com.example.springtest.SpringTestApplication for test class com.example.springtest.SmokeTest
+2021-02-12 21:11:34.150  INFO 11224 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Loaded default TestExecutionListener class names from location [META-INF/spring.factories]: [org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener, org.springframework.test.context.web.ServletTestExecutionListener, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener, org.springframework.test.context.event.ApplicationEventsTestExecutionListener, org.springframework.test.context.support.DependencyInjectionTestExecutionListener, org.springframework.test.context.support.DirtiesContextTestExecutionListener, org.springframework.test.context.transaction.TransactionalTestExecutionListener, org.springframework.test.context.jdbc.SqlScriptsTestExecutionListener, org.springframework.test.context.event.EventPublishingTestExecutionListener]
+2021-02-12 21:11:34.189  INFO 11224 --- [    Test worker] .b.t.c.SpringBootTestContextBootstrapper : Using TestExecutionListeners: [org.springframework.test.context.web.ServletTestExecutionListener@5da1f972, org.springframework.test.context.support.DirtiesContextBeforeModesTestExecutionListener@e9e0338b, org.springframework.test.context.event.ApplicationEventsTestExecutionListener@56ac2475, org.springframework.boot.test.mock.mockito.MockitoTestExecutionListener@d4137ddc, org.springframework.boot.test.autoconfigure.SpringBootDependencyInjectionTestExecutionListener@9e7d4e37, org.springframework.test.context.support.DirtiesContextTestExecutionListener@2ef67b26, org.springframework.test.context.event.EventPublishingTestExecutionListener@da529793, org.springframework.boot.test.autoconfigure.restdocs.RestDocsTestExecutionListener@b427a0c2, org.springframework.boot.test.autoconfigure.web.client.MockRestServiceServerResetTestExecutionListener@dd9a41fc, org.springframework.boot.test.autoconfigure.web.servlet.MockMvcPrintOnlyOnFailureTestExecutionListener@fb22f135, org.springframework.boot.test.autoconfigure.web.servlet.WebDriverTestExecutionListener@cae4a430, org.springframework.boot.test.autoconfigure.webservices.client.MockWebServiceServerTestExecutionListener@500eb520, org.springframework.boot.test.mock.mockito.ResetMocksTestExecutionListener@de1d94fd]
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+ :: Spring Boot ::                (v2.4.2)
+
+2021-02-12 21:11:34.990  INFO 11224 --- [    Test worker] com.example.springtest.SmokeTest         : Starting SmokeTest using Java 11.0.10 on DESKTOP-LQPVBQN with PID 11224 (started by jclee in /mnt/d/CMPE 172/lab2/spring-test)
+2021-02-12 21:11:34.992  INFO 11224 --- [    Test worker] com.example.springtest.SmokeTest         : No active profile set, falling back to default profiles: default
+2021-02-12 21:11:49.265  INFO 11224 --- [    Test worker] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-02-12 21:11:59.048  INFO 11224 --- [    Test worker] com.example.springtest.SmokeTest         : Started SmokeTest in 24.707 seconds (JVM running for 143.5)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
