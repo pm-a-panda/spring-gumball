@@ -71,7 +71,7 @@ Language: Java Language (JDK 11)
 Spring Boot Version: 2.4.2
 Group: com.example
 Artifact: demo-docker
-Name: demo-vscode
+Name: demo-docker
 Package Name: come.example.demo-docker
 Packaging: Jar
 Dependencies: Spring Web
