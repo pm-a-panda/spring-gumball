@@ -32,15 +32,15 @@ https://hub.docker.com
 
 # Part 1.1 - Spring Demo App Using Spring Initializer
 We generated a Spring Boot Project using https://start.spring.io/ using the following parameters.
-Project: Gradle Project
-Language: Java Language (JDK 11)
-Spring Boot Version: 2.4.2
-Group: com.example
-Artifact: demo-initializr
-Name: demo-initializr
-Package Name: come.example.demo-initializr
-Packaging: Jar
-Dependencies: Spring Web
+* Project: Gradle Project
+* Language: Java Language (JDK 11)
+* Spring Boot Version: 2.4.2
+* Group: com.example
+* Artifact: demo-initializr
+* Name: demo-initializr
+* Package Name: come.example.demo-initializr
+* Packaging: Jar
+* Dependencies: Spring Web
 
 The zip file was extracted and the java file was modified to match the name of the generated code.
 
