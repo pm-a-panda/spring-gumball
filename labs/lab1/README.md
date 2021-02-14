@@ -91,7 +91,7 @@ service.yaml
 In Google Cloud, we created a cluster and connected it with the terminal. We added the pod.yaml and service.yaml files in the editor and ran the following functions:
 kubectl apply -f pod.yaml
 kubectl create -f service.yaml
-![Google Cloud](171.1/171.1.3.png)
+![Google Cloud](172.1/172.1.3.png)
 
 # Part 2 - Spring Tacos Cloud App
 We extracted the zip file for the Taco Spring Boot Project.
@@ -109,4 +109,4 @@ make docker-push account=
 In Google Cloud, we created a cluster and connected it with the terminal. We added the pod.yaml and service.yaml files in the editor and ran the following functions:
 kubectl apply -f pod.yaml
 kubectl create -f service.yaml
-![TacoCloud](171.1/171.2.png)
+![TacoCloud](172.1/172.2.png)
