@@ -2,13 +2,13 @@
 In this lab, we will be familiarizing ourselves with Spring MVC and Spring Testing on Docker and Google Cloud.
 
 # Tables of Content
-[Spring MVC](#part-11-spring-mvc)
+[Spring MVC](#part-11---spring-mvc)
 
-[Spring Testing](#part-12-spring-testing)
+[Spring Testing](#part-12---spring-testing)
 
-[Spring Lombok](#part-2-spring-lombok)
+[Spring Lombok](#part-2---spring-lombok)
 
-[Tacos Cloud App (Version 2)](#part-3-tacos-cloud-app-version-2)
+[Tacos Cloud App (Version 2)](#part-3---tacos-cloud-app-version-2)
 
 # Part 1.1 - Spring MVC
 We generated a Spring Boot Project using https://start.spring.io/ using the following parameters.
