@@ -28,11 +28,11 @@ The following commands were ran in Ubuntu:
 * make docker-build
 * make compose-up
 
-![Docker](172.3.docker.png)
+![Docker](172.3/172.3.docker.png)
 
 When the page was reloaded, the server host/ip on the bottom right would alternate.. The IP value comes from localhost ip address. When I add a quarter and purchase, an error message would appear. To avoid this error, I would have to enable cookies. 
 
-![Docker2](172.3.1.png)
+![Docker2](172.3/172.3.1.png)
 
 # Spring Gumball on Google Cloud
 
@@ -48,15 +48,15 @@ We ran the following commands in the terminal:
 * kubectl create -f service.yaml
 
 # Deployment
-![Deployment](172.3.d1.png)
-![Deployment2](172.3.d2.png)
+![Deployment](172.3/172.3.d1.png)
+![Deployment2](172.3/172.3.d2.png)
 
 # Ingress
-![Ingress](172.3.i1.png)
+![Ingress](172.3/172.3.i1.png)
 
 # Service
-![Service](172.3.s1.png)
-![Service2](172.3.s2.png)
+![Service](172.3/172.3.s1.png)
+![Service2](172.3/172.3.s2.png)
 
 # Jumpbox
 We ran the following functions into the terminal:
@@ -66,8 +66,8 @@ We ran the following functions into the terminal:
 * apt-get install curl
 * apt-get install iputils-ping
 
-![Jumpbox](172.3.j.png)
+![Jumpbox](172.3/172.3.j.png)
 
 When the page was reloaded, the service host/ip address would change. The IP value comes from Kubernetes. When I tried to add quarters, an error message would appear. This could be solved by using the feature Session Affinity under Load Balancer. You would need to set it to ClientIP. 
 
-![Cloud](172.3.cloud.png)
+![Cloud](172.3/172.3.cloud.png)
