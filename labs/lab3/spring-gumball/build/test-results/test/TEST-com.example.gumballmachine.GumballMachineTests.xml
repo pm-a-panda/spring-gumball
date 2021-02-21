@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.example.gumballmachine.GumballMachineTests" tests="2" skipped="0" failures="0" errors="0" timestamp="2021-02-21T02:52:27" hostname="DESKTOP-LQPVBQN" time="0.245">
+  <properties/>
+  <testcase name="testHappyPath()" classname="com.example.gumballmachine.GumballMachineTests" time="0.238"/>
+  <testcase name="testSoldOut()" classname="com.example.gumballmachine.GumballMachineTests" time="0.006"/>
+  <system-out><![CDATA[Mighty Gumball, Inc.
+Spring Boot Standing Gumball Model #2021
+
+Inventory: 5 gumballs
+Machine is waiting for quarter
+
+You inserted a quarter
+You turned...
+A gumball comes rolling out the slot...
+Mighty Gumball, Inc.
+Spring Boot Standing Gumball Model #2021
+
+Inventory: 4 gumballs
+Machine is waiting for quarter
+
+Mighty Gumball, Inc.
+Spring Boot Standing Gumball Model #2021
+
+Inventory: 5 gumballs
+Machine is waiting for quarter
+
+You inserted a quarter
+You turned...
+A gumball comes rolling out the slot...
+You inserted a quarter
+You turned...
+A gumball comes rolling out the slot...
+You inserted a quarter
+You turned...
+A gumball comes rolling out the slot...
+You inserted a quarter
+You turned...
+A gumball comes rolling out the slot...
+You inserted a quarter
+You turned...
+A gumball comes rolling out the slot...
+Oops, out of gumballs!
+Mighty Gumball, Inc.
+Spring Boot Standing Gumball Model #2021
+
+Inventory: 0 gumballs
+Machine is sold out
+
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
