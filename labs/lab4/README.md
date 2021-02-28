@@ -1,5 +1,5 @@
 # CMPE 172 - Lab #4 Notes
-In this lab, we will be 
+In this lab, we will be creating a spring ldap project and a spring security project. We will also be making changes to the spring gumball v2 project and deploying it to Google Cloud. 
 
 # Table of Contents
 [Spring LDAP](#spring-ldap)
