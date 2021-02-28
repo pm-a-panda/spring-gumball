@@ -56,7 +56,7 @@ Here is the home page:
 Here is the login page:
 ![Security Login](172.4/172.4.security2.png)
 After logging in, there's a sign out button:
-![Security Sign Out](172.4/172.4.security.3.png)
+![Security Sign Out](172.4/172.4.security3.png)
 
 # Spring Gumball V2
 We copied the Spring Boot Project from https://github.com/paulnguyen/cmpe172/tree/main/spring/spring-gumball-v2.
