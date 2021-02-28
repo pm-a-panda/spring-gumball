@@ -3,7 +3,9 @@ In this lab, we will be
 
 # Table of Contents
 [Spring LDAP](#spring-ldap)
+
 [Spring Security](#spring-security)
+
 [Spring Gumball Version 2](#spring-gumball-v2)
 
 # Spring LDAP
