@@ -59,7 +59,15 @@ I ran into an issue where it wouldn't connect to port 8080.
 ![Issue](172.5/172.5.mysql.png)
 
 # SQL vs MongoDB
-
+![1](172.5/172.5.1.png)
+![2](172.5/172.5.2.png)
+![3](172.5/172.5.3.png)
+![4](172.5/172.5.4.png)
+![5](172.5/172.5.5.png)
+![6](172.5/172.5.6.png)
+![7](172.5/172.5.7.png)
+![8](172.5/172.5.8.png)
+![9](172.5/172.5.9.png)
 
 # Spring Gumball V3
 In this lab, we copied Spring Gumball Version 2 over. We wanted to connect our Spring Gumball to MySQL. 
