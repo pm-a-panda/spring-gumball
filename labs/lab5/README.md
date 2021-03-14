@@ -68,6 +68,7 @@ I ran into an issue where it wouldn't connect to port 8080.
 ![7](172.5/172.5.7.png)
 ![8](172.5/172.5.8.png)
 ![9](172.5/172.5.9.png)
+![10](172.5/172.5.10.png)
 
 # Spring Gumball V3
 In this lab, we copied Spring Gumball Version 2 over. We wanted to connect our Spring Gumball to MySQL. 
