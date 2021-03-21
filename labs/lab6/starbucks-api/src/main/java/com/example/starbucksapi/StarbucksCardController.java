@@ -50,7 +50,7 @@ class StarbucksCardController {
     repository.deleteAllInBatch();
   }
 
-  @GetMapping(".card.{num}")
+  @GetMapping("/cards/{num}")
   StarbucksCard getOne(@PathVariable String num, HttpServletResponse response) {
     StarbucksCard card = repository.findByCardNumber(num);
     if(card == null)

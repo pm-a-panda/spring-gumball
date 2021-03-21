@@ -162,7 +162,7 @@ public class StarbucksOrderController {
     return new_order;
   }
 
-  @GetMapping("/order/register/{regid")
+  @GetMapping("/order/register/{regid}")
   StarbucksOrder getActiveOrder(@PathVariable String regid, HttpServletResponse response) {
     StarbucksOrder active = orders.get(regid);
     if(active != null) {
