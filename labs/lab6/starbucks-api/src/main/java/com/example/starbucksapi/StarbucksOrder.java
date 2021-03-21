@@ -13,7 +13,6 @@ import lombok.Data;
 import lombok.RequiredArgsConstructor;
 
 @Entity
-@Table()
 @Data
 @RequiredArgsConstructor
 
@@ -21,9 +20,9 @@ class StarbucksOrder {
   private @Id @GeneratedValue Long id;
   
   private String regid;
-  private String Drink;
-  private String Milk;
-  private String Size;
-  private String Status;
-  private double Total;
+  @Column(nullable=false) private String Drink;
+  @Column(nullable=false) private String Milk;
+  @Column(nullable=false) private String Size;
+  @Column(nullable=false) private String Status;
+  @Column(nullable=false) private double Total;
 }
