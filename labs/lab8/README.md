@@ -9,6 +9,8 @@
 # Docker
 ![1](images/1.png)
 
+I found it easier to convert it back to h2database than to use MYSQL as I initially attempted to do.
+
 # Google Cloud
 ![2](images/2.png)
 ![3](images/3.png)
@@ -33,3 +35,5 @@
 ![21](images/21.png)
 ![22](images/22.png)
 ![23](images/23.png)
+
+I wasn't too familiar with Postman's feature to have an environment json file so it took me a little while figuring out how to use it to get my postman to work properly.
