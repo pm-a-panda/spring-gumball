@@ -11,7 +11,7 @@
 
 # Discussion
 
-A Spring Profile allows us to send messages as well as receive messages. We can use this feature in our project to have the customer send their order to the barista and have the barista accept the order. We can use RabbitMQ as an intermediate between the customer and the barista to send and receive messages. 
+A Spring Profile allows us to specific features of our Spring Project like the host, port, username, and password. We can use Spring Profiles in our project to define specific features that we want to use in our project. We can use RabbitMQ as an intermediate between the customer and the barista to send and receive messages. 
 
 
 
