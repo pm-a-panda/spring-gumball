@@ -1,1 +1,1 @@
-# CMPE 172 Git Repo
+# spring-gumball ci/cd example
